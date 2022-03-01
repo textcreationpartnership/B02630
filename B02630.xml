@@ -1,0 +1,496 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Daffy's original and famous Elixir salutis : the choice drink of health, or, health-bringing drink, being a famous cordial drink, found out by the providence of the almighty, and ... experiences by my self and other divers persons ... a most excellent preservative of mankind. A secret far beyond any medicament yet known ... the same being fitted unto all ages, sexes, complexions and constitutions ... / Never published by any but Anthony Daffy, and now by me Elias Daffy his son.</title>
+            <author>Daffy, Anthony.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02630</idno>
+            <idno type="STC">Wing D106D</idno>
+            <idno type="STC">ESTC R213391</idno>
+            <idno type="EEBO-CITATION">53299036</idno>
+            <idno type="OCLC">ocm 53299036</idno>
+            <idno type="VID">179808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179808)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2804:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Daffy's original and famous Elixir salutis : the choice drink of health, or, health-bringing drink, being a famous cordial drink, found out by the providence of the almighty, and ... experiences by my self and other divers persons ... a most excellent preservative of mankind. A secret far beyond any medicament yet known ... the same being fitted unto all ages, sexes, complexions and constitutions ... / Never published by any but Anthony Daffy, and now by me Elias Daffy his son.</title>
+                  <author>Daffy, Anthony.</author>
+                  <author>Daffy, Elias.</author>
+               </titleStmt>
+               <extent>[8], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed with allowance for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: faded, torn with loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elixirs --  Early works to 1800.</term>
+               <term>Medicine, Magic, mystic, and spagiric --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179808:1" rendition="simple:additions"/>
+            <p>
+               <hi>DAFFY'S Original and Famous</hi> Elixir Salutis: THE CHOICE DRINK OF HEALTH, <hi>OR, <hi>Health-bringing Drink.</hi>
+               </hi> BEING</p>
+            <p>A Famous <hi>CORDIAL DRINK,</hi> found out by the Providence of the Almighty, and (for above wenty years,) Experienced by my ſelf and divers perſons (whoſe names are at moſt of their Deſires here inſerted) a moſt excellent Preſervative of Man-kind.</p>
+            <p>A SECRET Far beyond any Medicament yet known, and is found ſo agreeable to Nature, that it effects all its Ope<g ref="char:EOLhyphen"/>rations, as Nature would have it, and as a virtual Expedient propoſed by her, for reducing all her Extreams unto an equal Temper; the ſame being fitted unto all <hi>Ages, Sexes, Complexions</hi> and <hi>Conſtitutions,</hi> and highly fortifying Nature againſt any Noxious humour, invading or offending the <hi>Noble Parts.</hi>
+            </p>
+            <p>Never Publiſhed by any but by <hi>ANTHONY DAFFY;</hi> And now by me <hi>ELIAS DAFFY</hi> his Son.</p>
+            <p>
+               <hi>Reader beware of Counterfeiters, for they ſwarm. And that you may know the Truth concerning</hi> Hinde, <hi>pray Read the Epiſtle.</hi>
+            </p>
+            <p>London, <hi>Printed with Allowance for the Author,</hi> 1698.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:179808:2" rendition="simple:additions"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>Having by the Providence of the <hi>Almighty</hi> obtained the True Compoſition, together with the Secret of Right preparing and making this famous <hi>Elixir,</hi> or <hi>Choice Drink of Health;</hi> and having for Twenty years laſt, downwards to this time, found the ſame (to admiration) ſucceſsful in the perfect Cure of Moſt of the torturing and painful Diſtem<g ref="char:EOLhyphen"/>pers and Maladies incident to humane Bodies; as will be abundantly teſtified by ſundry credible perſons in this City, and elſe where, upon their own happy Experiences of my <hi>Elixir</hi>'s admirable and almoſt incredible Effect and Virtues; the enumeration of whom would be to tedious here to inſert; yet particularly (amongſt many others) my <hi>Elixir</hi> was about nine years ſince, found ſuccesful under God in the perfect cure of one <hi>Thomas Hinde,</hi> moſt ſadly afflicted with the Stone, and other diſtempers, after five years uſe of the beſt means he could procure, either from Learned Phyſicians in this City, or the <hi>Wel's</hi> as by the ſaid <hi>Hind</hi>'s Certificate under his hand, and ther teſtimonies, may fully appear. He, the ſaid <hi>Hinde,</hi> ſoon after his Cure, did by ſubtle ſuggeſtions of great Travels by him pretendedly undertaken, and crafty inſinuations into my favour, obtain from me a Dire<g ref="char:EOLhyphen"/>ction unto ſome (tho' but few) of my <hi>Elixir</hi>'s Ingredients, ſo far only as to prevent his Relaps into his late Diſtempers; or to recover him, if relapſed by change of Air, alte<g ref="char:EOLhyphen"/>ration of Climates, or therwiſe: Which ſaid
+<hi>Hinde</hi> having thus (as be thought) accompliſht his Ends, did ſoon after (like a jugling <hi>Don Quixos</hi>) by the Letters T. H. G. Midwife by ſtealth, a Libellous Pamphlet crawling into the world, yet keeping it ſelf in dark corners as a Moon blind Brat, demurely counterfeiting my
+<hi>Elixir,</hi> under the varniſh'd and ſpecious Appellation of his Famous and Wonderful NEVER-FAILING CORDIAL DRINK's OF THE WORLD, <hi>&amp;c.</hi> to be ſold only within <hi>Alderſgate</hi> at the Picture-ſhop, and at one place more, in <hi>York</hi> City; audaciouſly making uſe of, and miſapplying the ſubſtance of my Bill of Directions by me publiſhed in Print above thirteen years ſince; and alſo Ape-like imitating my own Expreſſions, which he had from time to time heard me declare of my own, and my Patients manifold Experience of my <hi>Elixir</hi>'s virtues, with much im<g ref="char:EOLhyphen"/>pudence impoſing them upon the World, as if they were his own many years Experiences of the virtue of what he calls his <hi>Never-Failing Drink,</hi> &amp;c. tho' it is well known to me, and many other in this City, that he himſelf was (within this 10 years laſt) a ſtranger to my <hi>Elixir,</hi> and to the Names of thoſe few Ingredients in it which now he pretends to know. Divers of my Patients, in this Book, <hi>viz.</hi> Mr. <hi>Ben. Hope,</hi> Mr. <hi>William Crawley,</hi> and others, having been cured by me above 16 years ſince, and to this time remaining living Monu<g ref="char:EOLhyphen"/>ments to God's Praiſe of my Medicine's virtues. It is here very remarkable, that this
+<hi>Hinde,</hi> tho' ſtor'd with ſo great a ſtock of Confidence of the infallible Effects of his <hi>Never-Failling Drink;</hi> yet he boggles at the publication of the Names and Places of Abode of ſuch Patients of his, as have been cured of any one Diſtemper, by that this NEVER FAILING <hi>Cordialy</hi> or of the time or times when ſuch Cure (if any) were m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de, By which ſiniſter and indirect practiſe of this <hi>Hinde,</hi> it being obſerved, that ſundry People of moſt Ranks have been egregiouſly beguiled, their Health indangered, and my ſelf injuriouſly abuſed. AND tho' in the forenamed <hi>Tho. Hinde</hi>'s life-time, this JOSEPH HINDE was unwilling to ſtand the Teſt of thoſe many Falſhoods which his Brother had fomented, and his Mother did affirm, becauſe he knew them to be untrue; yet (for filthy lucres ſake) now owneth all, and makes himſelf the Succeſſor of his Brothers Impudence.</p>
+            <p>☞ I have in the faithful diſcharge of my Conſcience unto God, and in love to the public Good ſome time ſince publiſhed in Print two <hi>Advertiſements,</hi> for undeceiving the deluded world, unto which I never receiv'd one ſyllable of anſwer from this <hi>Hinde,</hi> I ſhall therefore leave the Conſideration of the whole Matter to the Judgment of the Impartial Reader.</p>
+            <epigraph>
+               <q>Qui vult decipi, decipiatur.</q>
+            </epigraph>
+            <closer>
+               <signed>ANTHONY DAFFY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="virtues_of_the_elixir">
+            <pb facs="tcp:179808:2"/>
+            <head>ELIXIR SALUTIS: OR, <hi>The Famous Choice Cordial Drink of Health.</hi>
+            </head>
+            <p>THE Excellent uſes and tranſcendent <hi>Virtues</hi> of this
+<hi>Ineſtimable Jewel,</hi> proved by the happy and ſucceſsful experiences of many <hi>Credible Perſons,</hi> being now living and
+<hi>Healthful Monuments</hi> to God's Praiſe, hereunder named and deſcribed, are amongſt di<g ref="char:EOLhyphen"/>vers others, (in ſo ſmall a Volum not Comprizeable) theſe, <hi>viz.</hi>
+            </p>
+            <div type="effective_against...">
+               <div type="disease">
+                  <head>The Gout.</head>
+                  <p>THis Choice Preſervative <hi>(if duly prepared, which no man can do but my ſelf)</hi> effectually and perfectly cures the <hi>Gout,</hi> as hath (through God's bleſſing) been happily experienced, and will be teſtified amongſt others by <hi>Benjamin Hope</hi> of <hi>Camerwell</hi> in the County of <hi>Surrey,</hi> having been very ſorely afflicted with this Torturing Malady. For, this my Drink ſtifles the <hi>Gout</hi> in its Birth, and kills it in its ſtrength; extracting out of all parts of the Patient's Body thoſe crude and viſcous humors, which are the ſpawn and nouriſhing cauſe of this <hi>grievous Diſeaſe,</hi> and frees the Joynts of all other Diſeaſes and pains to <hi>Admiration.</hi>
+                  </p>
+                  <p>☞ A Perſon of Honour alſo, to wit, <hi>Leonard Grey,</hi> 
+                     <abbr>Eſq</abbr> Son of the late Right Honourable <hi>Henry</hi> Earl of <hi>Stamford,</hi> having for the ſpace of twelve Years and upwards, been ſo deeply afflicted with the <hi>Gout,</hi> that he was neceſ<g ref="char:EOLhyphen"/>ſitated (during that time) to make uſe of Crutches, hath for four Months laſt been ſo Cured by the Means of this my <hi>Elixir,</hi> that he now walks with eaſe, having only a Cane in his Hand; and deſires, for the encouragement of others, that his Name be thus made public, this 22. of
+<hi>February,</hi> 1678.</p>
+                  <p>For the <hi>Gout</hi> and <hi>Dropſy,</hi> Mr. <hi>Athie,</hi> who may be heard of at the <hi>Feathers,</hi> under St. <hi>James</hi>'s Market-houſe, hath alſo found my <hi>Elixir</hi> happily ſucceſsful in his Cure: beſides many hundreds more, that are not free to be made public.</p>
+               </div>
+               <div type="disease">
+                  <head>The Stone and Gravel in the Reins, or an Exulceration in the Kidneys or Mouth of the Bladder.</head>
+                  <p>THis Drink diſſolves, and perfectly cures the <hi>Stone</hi> and <hi>Gravel,</hi> and hath been by God's bleſſing found an effectual
+<hi>Remedy</hi> againſt it in <hi>Men, Women,</hi> and <hi>Children.</hi> It wonderfully cleanſeth the <hi>Reins</hi> of all foulneſs and imperfections,
+<hi>forcing urine,</hi> never failing to cure the <hi>Gravel</hi> in the
+<hi>Reins, Kidneys,</hi> or <hi>Bladder,</hi> though ulcerated, and the Patients <hi>
+                        <g ref="char:V">Ʋ</g>rine</hi> like <hi>bloud</hi> Theſe excellent virtues of this
+<hi>my drink</hi> have to admiration been found <hi>eminently ſucceſsful</hi> by very many Perſons in divers Countries, and this City: As, for <hi>inſtance,</hi> by Mr. <hi>William Crawley</hi> of <hi>Luton,</hi> in the County of <hi>Bedford,</hi> who was cured Eleven years ſince, and may once a Fortnight be found at the <hi>Three Broad Arrows</hi> in <hi>Golding Lane London;</hi> who by Gods bleſſing upon this my <hi>Drink,</hi> voided above an <hi>hundred Stones;</hi> whereof the firſt, as big as the middle part of a <hi>Tobacco-Pipe,</hi> 
+                     <pb facs="tcp:179808:3"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>out an inch <hi>long,</hi> and ſo foft at its coming away, that one might <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> between the fingers; moſt of the other <hi>Stones ſmaller,</hi> ſome
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> bigneſs of an
+<hi>Horſe-bean,</hi> ſome as little as a <hi>Pea,</hi> all rendred ſoft,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of a crumbling nature.</p>
+                  <p>Alſo the ſaid <hi>Thomas Hinde</hi> deceaſed, who had his Drink ſold at the Picture-Shop within <hi>Alderſgate,</hi> when all other
+<hi>Means</hi> and <hi>Phyſicians</hi> (from one to another) in five years ſore affliction, proved unſucceſsful to him, either for <hi>help</hi> or
+<hi>eaſe;</hi> Nine Spoonfuls, or three <hi>Doſes</hi> of this <hi>my Drink</hi> (as I prepared it) did by the Lord's bleſſing, bring him to void a <hi>Stone three-forked,</hi> like the upper end of ſome <hi>Tobacco ſtopper,</hi> about the bigneſs of an <hi>Horſe-bean,</hi> which hath been ſeen by ſundry perſons of Note in this <hi>City,</hi> and elſewhere. And of his Cure by <hi>my Drink</hi> I have his
+<hi>Certificate</hi> (ready to ſhew, if need require.) Many more living Teſtimonies might be named of the <hi>incredible</hi> and <hi>excellent virtues</hi> of this <hi>Drink,</hi> bringing away the <hi>Stone, Sand</hi> and
+<hi>Gravel,</hi> when <hi>congea<g ref="char:EOLhyphen"/>led,</hi> the <hi>Sand</hi> and
+<hi>Gravel</hi> brought away as ſoft, as Meal or Flower under the
+<hi>finger:</hi> and if the ſame be <hi>congealed,</hi> it ſometimes brings it away on a ſuddain, hard as a <hi>Pibble,</hi> as the aforeſaid Mr.
+<hi>Crawley</hi> hath experienced. Mr. <hi>Robert Goodſon,</hi> at the
+<hi>Red Croſs</hi> in St. <hi>Martins le Grand,</hi> having alſo lately been ſorely racked with this torture, found this <hi>Elixir</hi> under God a ſpeedy and effectual remedy in voiding with much eaſe a Stone, of the bigneſs of a ſmall Bean, ſince which he ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h been very well, and ſo remains to this day.</p>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="testimonial">
+                              <p>☞ Theſe are to Certifie, That with the taking of
+7 Half Pint Bottles of Mr. <hi>Anthony Daffy</hi>'s <hi>Elixir,</hi> Mr.
+<hi>William Clarke,</hi> of the City of <hi>Glouceſter,</hi> Mercer, being 77 years of age, did in the year laſt paſt, in making of Water, void the quantity of a Gallon of Slimy-Ropy-Matter, which came away from him at ſeveral times; which hath given him very great eaſe, and may be ſaid to be a Cure of that Diſtem per, he now making clear Water. </p>
+                              <closer>
+                                 <dateline>In Teſtimony whereof, the ſaid Mr. <hi>William Clarke</hi> hath hereunto ſet his Hand
+<date>
+                                       <hi>December</hi> the Firſt, 1675.</date>
+                                 </dateline>
+                                 <signed>Per me, <hi>William Clarke.</hi>
+                                 </signed>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+               </div>
+               <div type="disease">
+                  <head>Againſt Languiſhing and Melancholly.</head>
+                  <p>IT raiſeth Languiſhing <hi>Nature,</hi> and
+<hi>Melancholly</hi> drooping <hi>Spirits,</hi> it fails not of curing the
+<hi>Hypocondriack-Melancholly,</hi> and moſt powerfully oppoſeth all black and mixed <hi>humours</hi> (as Natures grand Enemy) continu<g ref="char:EOLhyphen"/>ally drawing them out of the <hi>Veins</hi> and <hi>Arteries</hi> into the <hi>Stomach,</hi> and from thence ſends them away; and after their expulſion <hi>Nature</hi> rejoyceth.</p>
+               </div>
+               <div type="disease">
+                  <head>Shortneſs of Breath, Collick, Griping in the Guts.</head>
+                  <p>THis <hi>Drink</hi> doth, by the Lord's bleſſing, ſuddainly help <hi>bad Digeſtion, ſtoppage</hi> of the <hi>Stomach</hi> and <hi>ſhortneſs of Breath,</hi> cauſing a good <hi>ap<g ref="char:EOLhyphen"/>petite,</hi> and defending the <hi>head</hi> from all vapors aſcending from the
+<hi>Mother</hi> and <hi>Spleen.</hi> It is found a moſt certain Remedy for the <hi>Collick;</hi> and any <hi>Griping</hi> of the <hi>Guts,</hi> and ſtayeth <hi>Vomiting;</hi> which Virtues have been ſucceſsfully experi<g ref="char:EOLhyphen"/>enced by the aforeſaid <hi>Benjamin Hope</hi> of <hi>Camerwell,</hi> and my own Family.</p>
+                  <p>And many others will alſo teſtifie, that the ſame takes away all <hi>pain</hi> from the <hi>Heart,</hi> and perfectly cured them, when they were ſorely ſtopt with <hi>Phlegm,</hi> yea when they feared
+<hi>Choaking,</hi> and were accuſtomed in their ſteep to be near
+<hi>stifling</hi> for want of <hi>Breath.</hi>
+                  </p>
+               </div>
+               <div type="disease">
+                  <pb facs="tcp:179808:3"/>
+                  <head>The Phtiſick.</head>
+                  <p>IT gives much relief and eaſe to <hi>Aged</hi> People, afflicted with the <hi>Phtiſic</hi> but perfectly cures ſuch as have ſtrength of <hi>Nature,</hi> and are not too far ſpent in that ſad Diſtemper.</p>
+                  <p>This harmleſs and pleaſant Cordial is ſo good a friend unto <hi>Woman-kind</hi> in all conditions, and hath been ſo experienced, that they cannot treaſure up a <hi>richer Jewel</hi> by them, or have a more acceptable gift preſented them, the virtues of it being found effectual in clearing them of all obſtructions.</p>
+               </div>
+               <div type="disease">
+                  <head>The Green-Sickneſs.</head>
+                  <p>IT alſo certainly and ſpeedily cares the
+<hi>Green-ſickneſs</hi> (of any kind or <hi>nature</hi> whatſoever,) not failing to bring Virgins to their <hi>Maiden bluſh,</hi> rendering painting altogether out of faſhion, making the <hi>Face well co<g ref="char:EOLhyphen"/>loured,</hi> the Breath <hi>ſweet,</hi> and the Body <hi>luſty.</hi>
+                  </p>
+               </div>
+               <div type="disease">
+                  <head>Againſt Surfeits.</head>
+                  <p>IT purſueth <hi>Surfeits,</hi> from one place to another in the body, yea, though the body be ſwollen up, it doth by God's help ſpeedily raiſe the Patient from a bed of Languiſhing; as hath been happily experienced by one Mr. <hi>De Hewes,</hi> a Glaſs-maker, in
+<hi>Wincheſter yard, Southwark,</hi> who found the ſame admirably ſucceſsful in his <hi>ſpeedy</hi> and compleat <hi>Recovery</hi> from that dangerous Diſtemper; and (among many others more) Mr. <hi>Matthew Buſh,</hi> a Workman Brewer at Mr. <hi>William Collins</hi> his Brew-houſe, over againſt <hi>St. Giles's</hi> Church, deſires that his Name be here inſerted for the en<g ref="char:EOLhyphen"/>couragement of others, to the Praiſe of God, for his ſignal Bleſſing upon this means, in his Recovery from a very dangerous Surfeit, which brought his life into great peril.</p>
+               </div>
+               <div type="disease">
+                  <head>Scurvy and Dropſie.</head>
+                  <p>THis Cordial Drink wonderfully acquits the Body of the
+<hi>Scurvy,</hi> root and branch; and hath alſo been found (to
+<hi>Admiration</hi>) ſucceſsful in the perfect cure of the
+<hi>Dropſie,</hi> and other <hi>Diſtempers,</hi> accompanying the ſame as hath been happily experienced by the aforeſaid Mr. <hi>De-Hewes,</hi> and others (too many here to mention.)</p>
+               </div>
+               <div type="disease">
+                  <head>Coughs, Wheeſings, Conſumption and Agues.</head>
+                  <p>IT hath been found, through God's bleſſing, an effectual Remedy againſt <hi>Coughs</hi> of all ſorts, yea in the height of
+<hi>extremity.</hi> It alſo removes and takes way the <hi>Cauſes</hi> of all <hi>Wheeſings,</hi> and hath to Admiration cured <hi>Con<g ref="char:EOLhyphen"/>ſumptive perſons,</hi> Nature being not too far ſpent. It hath been in
+<hi>February</hi> 1672. found ſucceſsful in the Cure of an Apptientice, by name <hi>Geo. Amblin,</hi> who was ſorely afflicted with a <hi>Quotidian Ague</hi> the young Man may be ſpoken with, or heard of at Captain
+<hi>Chilidine's</hi> Coffee-Houſe, called, the <hi>Leaden Hall</hi> Coffee-Houſe near <hi>Leaden Hall,</hi> and ſince that Hundreds more.</p>
+               </div>
+               <div type="disease">
+                  <head>Mother and Spleen and Fitts of the Mother.</head>
+                  <p>THis Cordial Drink admirably frees the <hi>Liver</hi> and
+<hi>Spleen</hi> of all <hi>Obſtructio<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</hi> and is a pro<g ref="char:EOLhyphen"/>per Expedient and effectual <hi>Remedy</hi> againſt the <hi>Fits of the Mother,</hi> as was happily Ex<g ref="char:EOLhyphen"/>perienced on the Wife of Mr. <hi>Edward Brandereth</hi> a Taylor in
+<hi>Plow-ſtable-Alley,</hi> by little <hi>Lincolns-Fields,</hi> 
+                     <pb facs="tcp:179808:4"/>who having been in a very ſad manner extraordinarily afflicted with very ſore, <hi>Fits,</hi> is now by the Bleſſing of the Lord upon this
+<hi>Elixir,</hi> Cured and Freed of that Diſtemper.</p>
+                  <p>It is alſo of excellent uſe for <hi>Wet Nurſes,</hi> cleanſing their <hi>Blood,</hi> and rendring their <hi>Milk</hi> wholſom and <hi>nurtive</hi> to the ſucking Babe.</p>
+               </div>
+               <div type="disease">
+                  <head>Againſt Rickets.</head>
+                  <p>IT cures the Rickets, and other diſtempers in Children, by opening and removing Ob<g ref="char:EOLhyphen"/>ſtructions in them.</p>
+               </div>
+            </div>
+            <div type="futher_virtues">
+               <p>It keeps a clear paſſage between the <hi>head</hi> and
+<hi>heart,</hi> not admitting of any Noxious hu<g ref="char:EOLhyphen"/>mour, that annoys thoſe Noble parts. It had Cured Hundreds of hot Rheum in their Eyes, by cleanſing the Optick Nerves, and cleanſeth the ſight to admiration.</p>
+               <p>It admirably keeps off <hi>frightful fears</hi> and
+<hi>griefs</hi> from ſeizing on the <hi>heart,</hi> by removing thoſe noxious and ſharp humours that occaſion the ſame.</p>
+               <p>It alſo takes away the Cauſe of, and cures the extream
+<hi>burnings</hi> in, the bottoms of the <hi>feet</hi> and <hi>palms</hi> of the <hi>hands,</hi> which ſorely afflict the <hi>Heart.</hi>
+               </p>
+               <p>
+                  <hi>Finally,</hi> it highly exalts the <hi>Generative virtue,</hi> and reſtores <hi>Radical Moisture,</hi> cleanſing and ſtrengthening the Seminal veſſels in both Sexes, fitting and preparing them for Conception.</p>
+               <p>It retains its full Virtue 7 years, this I can prove, which is ſome years before either <hi>Hinde, Witherden,</hi> or any of the Counterfeits knew their Liquors, or what they were good for.</p>
+               <p>It, is good for the Relief and Cure of thoſe afflicted with the afore-mentioned Diſtem<g ref="char:EOLhyphen"/>pers, which have occaſion to take long Voyages, for it operates as well by Sea as on Land, and as well beyond or under the Line, as on this ſide: This I have had Experience of, by thoſe that have taken it in the <hi>East</hi> and <hi>Weſt-Indies, Barbadoes, New England,</hi> and <hi>Guiney.</hi>
+               </p>
+               <p>And after the Waters, if you take a Bottle according to your Directions, it will cleanſe the Body and leave it in a very ſetled condition. It is alſo excellent to cleanſe the Body after the Meaſles or Small Pox, for it carrieth off the reliques of ſuch Diſtempers, which being not carried off, prove dangerous to the Patient. And for thoſe that uſed to Drink Scurvigraſs-Ale in the Spring and Fall, by Experience this my
+<hi>Elixir</hi> hath been found much more effectual.</p>
+               <p>It hath been found an admirable Virtue againſt Worms of all ſorts, many that have taken it againſt the pains of the Stomach, have by taking of 2 or 3 Doſes, voided thou<g ref="char:EOLhyphen"/>ſands of ſmall white Worms, and they have been freed from their pain in two days time. Alſo for long Worms in 3 times taking of this my <hi>Elixir,</hi> ſome have voided 19 Worms, ſome of them 3 quarters of a yard long, and ſome have voided Worms as Skins, or Slime, to admiration. And without any danger, it may be taken by Women when with Child. if they are two Months gone, as ſafely as if they were not with Child, for it carrieth off the Diſtempers of the Mother, ſo that the Child thriveth the better.</p>
+               <p>In a word, amnogſt all the diſeaſes and diſtempers incident to human Bodies, which, I have heard or read of in theſe parts of the world, whether of <hi>Men, Women, Children,</hi> or <hi>Babes</hi> I do in the Preſence of God, upon my long experience of the virtues of this
+<hi>Cordi<g ref="char:EOLhyphen"/>al Drink</hi> affirm, There is not one Diſeaſe able to withſtand; but is, through Gods bleſſing ſubject unto this my
+<hi>Drinks</hi> innocent, powerful, and miraculous operation (Gods ap<g ref="char:EOLhyphen"/>pointed time for the <hi>Paines Diſſolution</hi> being not come.)</p>
+               <p>You have in this Sheet (as the parties deſires) publiſhed the Names and Habitations of ſome perſons, who have by Gods bleſſing, experienced the ſucceſsfulneſs of this my Inoffenſive Cordial, in their Cures or Diſtempers, (herein ſpecified) which ſhall for brevity ſake ſuffice, many hundreds of other, Cured alſo by this my Cordial (which might be particularly expreſſed) I ſhall omit as in a ſmall Volum not comprizeable.</p>
+               <p>I might without oſtentation, or any vain glory (if brevity were not deſigned) give in<g ref="char:EOLhyphen"/>ſtances of perſons that have (by Gods bleſſing upon the ſeeming improbable means of this <hi>my Drink</hi>) been cured of the <hi>Pestilence,</hi> ſome of <hi>Agues;</hi> and of others, that by this <hi>Drink</hi> have been cured of the <hi>King</hi>'s
+<hi>evil,</hi> (ſo by its common Symtoms generally judged of:) theſe Perſons applying to me, may have full ſatisfaction.</p>
+               <pb facs="tcp:179808:4"/>
+               <p>And I do in the preſence of the <hi>Almighty Searcher</hi> of Hearts affirm, and faithfully promiſe, That this my pleaſant
+<hi>inoffenſive Drink,</hi> with much carefulneſs and integrity duly prepared by me; ſo that I have (through the Lord's Goodneſs) ſucceſsfully given the ſame unto my <hi>Wife (lying in)</hi> and unto Babes (in the <hi>Month</hi>) (ſo qualified, as in my <hi>Directions;</hi> for taking the ſame is particularly expreſt.) And I do aſſure you, that there is nothing of a <hi>Mineral</hi> nor <hi>Chymical Extraction</hi> in it, as ſome have ſugge<g ref="char:EOLhyphen"/>ſted, on purpoſe to weaken its Eſteem among people.</p>
+               <p>Moreover, for prevention of <hi>fraud,</hi> each Bottle of this my <hi>Elixir</hi> ſhall be ſealed with my <hi>Coat of Arms,</hi> according to its Impreſſion in the Title; the <hi>London</hi> price being but
+<hi>Five Shillings</hi> the <hi>Pint,</hi> or <hi>Two Shillings Six Pence</hi> the <hi>Half-pint Bottle;</hi> and the ſame is (for the better and more con<g ref="char:EOLhyphen"/>venient Accomodation of perſons living at a diſtance from me) to be ſold at the places, and by the perſons hereafter named, which are all that in <hi>London, Weſtminſter,</hi> or <hi>Southwark,</hi> do vend the ſame for me, <hi>viz.</hi>
+                  <list>
+                     <item>Mr. <hi>Benjamin Billinſley</hi> at the
+<hi>Printing-Preſs,</hi> In the <hi>Royal-Ex<g ref="char:EOLhyphen"/>change</hi> under the
+<hi>Piazza</hi>'s.</item>
+                     <item>Mr. <hi>Samuel Crouch,</hi> at the Corner of
+<hi>Popes-head-Alley</hi> over againſt the <hi>Royal-Exchange.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Harriſon,</hi> Book-ſeller and Stationer at the <hi>South-West-end</hi> of the <hi>Royal-Exchange</hi> in
+<hi>Cornhill.</hi>
+                     </item>
+                     <item>Mr. <hi>Daniel Scot,</hi> Sadler at the lower End of
+<hi>Coleman-street.</hi>
+                     </item>
+                     <item>
+                        <hi>Mr. Christopher Conningsby</hi> at the
+<hi>Turks-head</hi> over againſt St. <hi>Dun<g ref="char:EOLhyphen"/>stans-Church.</hi>
+                     </item>
+                     <item>Mr. <hi>Playford,</hi> Bookſeller next the
+<hi>Temple</hi> Church, in the <hi>Inner-Temple.</hi>
+                     </item>
+                     <item>Mr. <hi>Henry Daintry,</hi> a Cane-ſhop at the
+<hi>Cock</hi> without <hi>Tem<g ref="char:EOLhyphen"/>ple-Bar.</hi>
+                     </item>
+                     <item>Mr. <hi>Abraham Cotterell.</hi> at the Sign of the
+<hi>Cock</hi> in <hi>Catharine-ſtreet,</hi> and by him at the Sign of the
+<hi>Cock,</hi> at <hi>Charing Croſs Tobacconiſt.</hi>
+                     </item>
+                     <item>Mr. <hi>Loyd</hi> at <hi>Loyds Coffee-Houſe</hi> near
+<hi>Northumberland-Houſe</hi> in the <hi>Strand.</hi>
+                     </item>
+                     <item>Mr. <hi>John Barnes</hi> Bookſeller at the Sign of the
+<hi>Crown</hi> over againſt St. <hi>Albans Street</hi> in
+<hi>Pallmall.</hi>
+                     </item>
+                     <item>Mrs. <hi>Low</hi> Strongwater-ſhop at the Corner of
+<hi>Green-ſtreet</hi> near <hi>Leiceſter Feilds.</hi>
+                     </item>
+                     <item>Mr. <hi>Bynns</hi> at <hi>Bettys Coſſee-Houſe</hi> in <hi>German-street</hi> near St. <hi>James Church.</hi>
+                     </item>
+                     <pb facs="tcp:179808:5"/>
+                     <item>By Mrs. <hi>Johnſon</hi> at <hi>Johnſon</hi>'s Coffee-houſe, near St. <hi>James</hi>'s Church.</item>
+                     <item>Mrs. <hi>Bently,</hi> Bookſeller in
+<hi>Covent-Garden.</hi>
+                     </item>
+                     <item>Mr. <hi>John Bignal</hi> Grocer, at the
+<hi>White-Lyon</hi> in <hi>Ruſſel-ſtreet</hi> in
+<hi>Covent-Garden.</hi>
+                     </item>
+                     <item>Mr. <hi>Henry Wyndham</hi> at the Sign of the
+<hi>Hand</hi> and <hi>Pen</hi> in <hi>Ruſſel-ſtreet</hi> in <hi>Covent Garden</hi> Milliner.</item>
+                     <item>By Mrs. <hi>Smart</hi> a <hi>Potter,</hi> near St.
+<hi>Giles</hi>'s Church.</item>
+                     <item>Mrs. <hi>Mary Powell,</hi> Semſtreſs, at
+<hi>Greys-Inn-gate</hi> in <hi>Holbourn.</hi>
+                     </item>
+                     <item>In St. <hi>Martins,</hi> by Mr. <hi>Minacin,</hi> a Stationer at the <hi>Kings-head.</hi>
+                     </item>
+                     <item>In <hi>Hounds-Ditch,</hi> by Mr. <hi>John West,</hi> a Meal man near <hi>Gun-yard.</hi>
+                     </item>
+                     <item>Mr <hi>William Seaton</hi> Diſtiller next door to Sir.
+<hi>John Friend's</hi> Brew-Houſe in the <hi>Minories.</hi>
+                     </item>
+                     <item>At <hi>Batterſey,</hi> by <hi>VVilliam Stubbington.</hi>
+                     </item>
+                     <item>At <hi>VVanſor,</hi> by Mr. <hi>Robert Ludwell,</hi> Carpenter near the <hi>Pound.</hi>
+                     </item>
+                     <item>And at my own Houſe in <hi>Prujean</hi>'s
+<hi>Court,</hi> in the Great <hi>Old-Baily,</hi> nigh <hi>Ludgate-hill, London.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>At which ſeveral places above-mentioned, all Perſons that are deſirous of this <hi>Cordial Drink,</hi> may (together with a Bottle of the ſame) re<g ref="char:EOLhyphen"/>ceive one of the printed Books, ſealed with my Seal, and printed Di<g ref="char:EOLhyphen"/>rections for the uſe and application thereof, proper to each Diſtem<g ref="char:EOLhyphen"/>per, and the Pa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ient's condition, and ſtrength of Body.</p>
+               <p>And it having pleaſed God ſo highly to own my Endeavours, and crown my Medicine with ſo eminent and incredible ſucceſs, in the Cure of divers People afflicted with the Diſtempers (herein ſpecified) ſome male<g ref="char:EOLhyphen"/>volent and mercenary Perſons do endeavour the counterfeiting of it, to the great prejudice and peril of ſundry people: theſe are therefore to give notice, That whoſoever in this City or Suburbs, or elſewhere (not named in this Book) ſhall undertake the Sale of any <hi>Cordial Drink,</hi> called by my Drink's Name, and the Bottles and Books not ſealed as this Book, the ſame I do aver to be a Counterfeit, though the Name of my Drink, and my own and others many Years Experiences of the Vertues of it be impudently ſtollen nigh word for word.</p>
+            </div>
+         </div>
+         <div type="recommended_use">
+            <pb n="1" facs="tcp:179808:5"/>
+            <head>DIRECTION Given by me (ANTHONY DAFFY, Student in Phyſic.) For taking my ſafe, innocent and ſucceſsful CORDIAL DRINK, <hi>ELIXIR SAL<g ref="char:V">Ʋ</g>TIS;</hi> Proper to the Cure of each Diſtemper (in the Printed Sheet of its Virtues mentioned,) and ſuited unto the Patients ſeveral Ages, Sexes and Conſtitutions.</head>
+            <div type="general_instructions">
+               <div n="1" type="observation">
+                  <head>The firſt general Obſervation.</head>
+                  <p>FOr ſuch perſons as are oppreſt with <hi>Chronical Diſtempers</hi> whether the <hi>Gout, Stone, Collick, Ptiſſick, Dropſie,</hi> &amp;c. and have (divers Years) been tortured and bowed down under the burden of them: I ſay, for Diſtempers habitual to, and radicated in the Body; it cannot rationally be expected that this (by any Means under Heaven) may on a ſuddain effect their Cure, any more than that a ſmall ſhower of rain (after a long ſeaſon or Sum<g ref="char:EOLhyphen"/>mers drought) ſhould preſently revive the parched and dying <pb n="2" facs="tcp:179808:6"/>flowers and herbs of the field, and reſtore them to their lively verdure and greenneſs: To perſons therefore infected with theſe Chronical Diſtempers, and diſpoſed to uſe the means of this my Drink, I give this advice, that they take the ſame according to the enſuing particular Directions, and patiently wait upon the Almigh<g ref="char:EOLhyphen"/>ty. Phyſician of Soul and Body for his Bleſſing, and I doubt not, but they (as well as others have done) will find very much releif, at leaſt by eaſe of their pains, if not the perfect cure of their diſeaſe; which ſome Aged perſons have happily experienced. Moreover, let not the Patients (having taken this Drink) impatiently expect its operation or working with them, on a ſuddain; for experience hath found that on ſome Bodies it is 6 hours, on ſome 8, and on ſome 12 hours, before it works: and in moſt Diſtempers, its operation is ſo gentle and moderate, that the Patients may (with ſafety) follow their buſineſs and occaſions, either at home, or abroad.</p>
+               </div>
+               <div n="2" type="observation">
+                  <head>The ſecond general Obſervation.</head>
+                  <p>LEt the Patient afflicted with any of the Diſtempers, in the Book of my <hi>Cordials</hi> Virtues mentioned, have a due regard to the ſtate and condition of his or her Body (if the Body be Coſtive as moſt generally perſons under ſuch diſtempers are,) let the firſt doſe (if the age, and ſtrength of nature will permit) be three Spoon<g ref="char:EOLhyphen"/>fuls at the Patients going to Bed, and the like Doſe at the up-riſing in the Morning: But in caſe the Body be Laxative, then let the firſt doſe over-night be one Spoonful, and another at the up-riſing in the Morning, and ſo let the Doſe be increaſed by one Spoonful each time if the Patients ſtrength may admit, till it comes to three Spoonfuls, which (without good adviſe) none is to exceed. In taking the ſame, let the Patient uſe as much exerciſe and ſtirring, as ſtrength of Body may admit. Here likewiſe obſerve, the Patient ought to avoid Melancholy, and keep a good Dyet; and it is conve<g ref="char:EOLhyphen"/>nient to take a meſs of Broth, or ſomething warm, an hour after the Mornings Doſe, which is found more proper than Poſſet-Ale.</p>
+               </div>
+               <div n="3" type="observation">
+                  <pb n="3" facs="tcp:179808:6"/>
+                  <head>The third general Obſervation.</head>
+                  <p>THis Drink hath been many Years experienced ſo innocent and ſure in it's operation, that it may be ſafely taken at any ſeaſon of the year, for neither heat, nor cold can obſtruct its beneficial operation on the Body. Moreover this Drink will retain its Virtue, though kept two years together (as divers perſons have found) but I ſuppoſe it may be kept much longer: Another Virtue and innate propriety of this Drink (diſtinguiſhing it from all other Phyſick whatſoever) is, that at the Patients leaving off the ſame the Patients Body remains not Coſtive, but in a very good health<g ref="char:EOLhyphen"/>ful temper and lightſome condition.</p>
+               </div>
+            </div>
+            <div type="specific_instructions">
+               <div type="disease">
+                  <head>The GO<g ref="char:V">Ʋ</g>T.</head>
+                  <p>LEt the Patient (having competent ſtrength of Nature) take three Spoonfuls of this <hi>Elixir</hi> in the Morning faſting and the like Doſe laſt at Night; the which courſe muſt be followed ſo long as the Patients ſtrength of Body will bear it, and eſpecially if the Pains be found to move from one joynt to another: I adviſe the Patient to be active, and uſe as much ſtirring exerciſe, as con<g ref="char:EOLhyphen"/>veniently may be: Here note, That after four Doſes, or twelve Spoonfuls taking, the Patient may (if the ſame be found to work five or ſix times in a day) intermit a day, and then return to the Drink; taking then two Spoonfuls in the Morning, one ſpoonful an hour before Dinner, and two Spoonfuls laſt at Night; but let not the Patient, finding not his expectation anſwered on a ſudden lay aſide the further uſe of this Choice Remedy; for although ſome have been Cured of this torturing malady in taking out of one half-pint Bottle of this Drink, yet ſome require a Pint, and others more, according as the Diſeaſe hath more or leſs ſeated and riveted it ſelf into the Body.</p>
+               </div>
+               <div type="disease">
+                  <head>The Stone or Gravel in the Kidneys.</head>
+                  <p>IF the Patients pain lye moſt, either in the Reins or the Flank it is an Indication, whereby he or ſhe may conclude, the Ma<g ref="char:EOLhyphen"/>lady is the
+<hi>Stone</hi> or <hi>Gravel</hi> in the Kidneys; then the Patients age and ſtrength of Nature admitting, let him or her take the firſt
+<pb n="4" facs="tcp:179808:7"/>Doſe, or three Spoonfuls laſt at Night, and firſt in the Morning, and preſently after it uſe as much ſtirring exerciſe, as may be; and although Riding may at that time be burthenſom, yet it would prove very profitable and advantagious; for by uſing extra<g ref="char:EOLhyphen"/>ordinary exerciſes and agitations of the Body, divers have been far ſooner diſcharged of this tortucing Diſtemper, as hath been experienced by Mr.
+<hi>Crawley</hi> (in the printed Sheet of the vertues of this Drink) who by taking but three Spoonfuls of this Drink, and riding ten Miles upon it, voided three Stones, each as big as a Horſe-bean, (as he himſelf teſtifieth.)</p>
+               </div>
+               <div type="disease">
+                  <head>STONE in the Bladder.</head>
+                  <p>LEt the Patient afflicted with the <hi>Stone</hi> in the Bladder, conſi<g ref="char:EOLhyphen"/>der the bigneſs of it, and take the full Doſe of three Spoonfuls laſt at Night, and the like firſt in the Morning, continuing the ſame for three days; then intermit two days, and return to it, then taking only two Spoonfuls laſt at Night, and the like Doſe firſt in the Morning, which courſe let the Patient obſerve, and by the Lords Bleſſing the Stone will be found to waſt gradually, and in concluſion, to come away; but Patience is to be exerciſed, for although <hi>Thomas Hinde</hi> voided away the Stone in nine Spoonfuls, or three Doſes taking; yet that great Stone voided by the ſaid Mr. <hi>Crawley</hi> was nigh 12 Months in waſting, before it could come away, and was then rendred ſo ſoft, that it crumbled away between the fingers.</p>
+               </div>
+               <div type="disease">
+                  <head>Exulceration of the Kidneys.</head>
+                  <p>For the Exulceration of the Kidneys, rendering the Patients Urine like Blood: let the Patient keep to the direction of the Second general Obſervation, and ſo firſt open and cleanſe the Body for two days; and then for two days, Night and Morning, take one ſpoonful or two (according to the Meaſure of ſtrength) and then intermit two days, and after, take one Spoonful at night, and one in the Morning, and one an hour before Dinner; This me<g ref="char:EOLhyphen"/>thod in taking the ſame, hath by the Lords Bleſſing been found eminently ſhccesful in the healing and cleanſing any Exuleeration of the Reins or Bladder.</p>
+               </div>
+               <div type="disease">
+                  <pb n="5" facs="tcp:179808:7"/>
+                  <head>Collick and Griping in the G<g ref="char:V">Ʋ</g>TS.</head>
+                  <p>LEt the Patient (at any time of pain) take three Spoonfuls, which may eaſe or mitigate the pain; and if he or ſhe be not diſchar<g ref="char:EOLhyphen"/>ged of the Pains, let him, or her, take three ſpoonfuls more, five hours after; but if the Patient be a coſtive, or a corpulent Body; let ſuch a one take a Doſe of 4 Spoonfuls during the Gripes, and (if the pain continue) four Spoonfuls more ſix hours after; for this Diſtemper is uſually ſadly violent, and muſt be followed cloſe; yet this means (thus taken) fails not, by the bleſſing of Almighty God to become Maſter of this ſad Malady. Afterwards (for cleanſing the Body of the dregs of it) let the Patient leſſen the Doſe, according to directions of the general Obſervation</p>
+               </div>
+               <div type="disease">
+                  <head>PTISSICK.</head>
+                  <p>LEt the Patient weigh and conſider the three general Obſervati<g ref="char:EOLhyphen"/>ons, and (according to direction thereof) open and cleanſe the Body, for four days; and after that, take only half a Spoonful, when the Cough is perceived coming upon him or her, and one Spoonful, an hour before Dinner; and this courſe (followed) will by degrees gain power over, and waſte the Diſtemper; yea, and ſtrengthen Nature againſt it; and this courſe may be taken even in Winter, when the Diſtemper is predominant and ſtrongeſt upon the Patient; by which means, he or ſhe will (by the Lords Bleſſing) find the Breath free, and the Cough exceedingly abated, if not taken away. But as to youthful Perſons, that are not far gone in this ſad Malady, a Pint of this Drink in the Spring, &amp; as much in the Fall (taken as be<g ref="char:EOLhyphen"/>fore directed) will (by Gods Bleſſing,) not fail of their perfect Cure. And unto aged People, afflicted with this Diſtemper, it doth ſo far aid Nature, and ſtrengthen them, as in the following Winter to ren<g ref="char:EOLhyphen"/>der their lives pleaſant to them; provided always, that the Patient be moderate in drinking, and have a care to prevent taking cold, and keep a good Diet.</p>
+               </div>
+               <div type="disease">
+                  <head>DROPSIE.</head>
+                  <p>IF it be predominant upon the Patient (known by the bigneſs of the Belly, ſwelling of the Limbs and Face) let the Patient take four ſpoonfuls firſt in the morning, and the like Doſe laſt at night, for four days together, then intermit two days, and afterwards keep two orthree ſpoonfuls at night, and the like Doſe in the morning.</p>
+               </div>
+               <div type="disease">
+                  <pb n="6" facs="tcp:179808:8"/>
+                  <head>SC<g ref="char:V">Ʋ</g>R<g ref="char:V">Ʋ</g>EY.</head>
+                  <p>THe <hi>Scurvey,</hi> known by knots in the fleſh, and blew ſpots in the skin, let the Patients keep to the directions in the three general obſervations, having due regard to the ſtrength of their bodies, and take the drink two days, intermitting two days, for the ſpace of a month, and then take only one ſpoonful in the morning, and another an hour before dinner.</p>
+               </div>
+               <div type="disease">
+                  <head>S<g ref="char:V">Ʋ</g>RFEITS.</head>
+                  <p>LEt the Patient take the ordinary Doſe of 3 Spoonfuls at night and three in the morning, for ſix times without intermiſſion; and there is no doubt but (by the Lords Bleſſing) the ſame will be found ſuccesful to his or her Relief and Cure, though the height of the diſtemper had brought the Patient very low, and nigh the gates of death: And I would adviſe others, and particularly ſuch as are apt to drink much Wine (bad and ſophiſticated Wines being very frequent and fatal in this City and elſewhere) that they do upon the leaſt illneſs and indiſpoſition of Body, apply themſelves unto this choiſe Remedy, either the ſame night, or the next morning, or both; for this Drink is experienced a choiſe Antidote for pre<g ref="char:EOLhyphen"/>venting of <hi>Surfeits</hi> (inſenſibly ſtealing upon men) and expelling out of the Body that malignant Matter, which is the occaſion and riſe thereof.</p>
+               </div>
+               <div type="disease">
+                  <head>PESTILENCE.</head>
+                  <p>LEt the Patient, when firſt ſmitten with his Viſitation or with Illneſs, accompanied with any ſymptom of the Diſtemper (re<g ref="char:EOLhyphen"/>gard being had to the direction of the three general Obſervations) take three ſpoonfuls, or leſs, of this Drink (according to the Pa<g ref="char:EOLhyphen"/>tients ſtrength or weakneſs of Body) and ſo proceed as occaſion ſhall require; and I queſtion not, but (through mercy) the ſame will be found an effectual means, as well for overcoming the Di<g ref="char:EOLhyphen"/>ſtemper, as for ſtrengthening Nature, and reſtoring Health (unleſs the Patients Viſitation be the Meſſenger of Death) which Benefit has been happily experienced, and will be atteſted by divers per<g ref="char:EOLhyphen"/>ſons in my own and other Families, which ſtayed in the City in the time of the laſt great Viſitation, and were Viſited, and yet through God's goodneſs do ſtill remain in the Land of the Living.</p>
+               </div>
+               <div type="disease">
+                  <pb n="7" facs="tcp:179808:8"/>
+                  <head>Fits of the Mother, and Vapours from the Spleen.</head>
+                  <p>LEt the Patient (having regard to the direction of the general Obſervations) begin with one, or with two Spoonfuls of this Drink, and ſo continue or raiſe the Doſe, according to what the Patients ſtrength may admit, remembring that the greateſt Doſe preſcribed is not to exceed three Spoonfuls, and let the proper Doſe be taken at any time whatſoever, when the Fitt is found to be coming upon him or her.</p>
+                  <p>WHen Women, either by reaſon of taking Cold, or any other accident, find an Obſtruction of their Courſes, though it be in Child-bed, give them three ſpoonfuls of this drink, at any time (either of night or day,) and through Gods Bleſſing; they will find all in good order again; of which excellent virtue in this Drink, divers Women, and my own Wife (when in Child-bed) have found comfortable experiences, and will atteſt the ſame to others.</p>
+               </div>
+               <div type="disease">
+                  <head>GREEN-SICKNESS.</head>
+                  <p>LEt the Patient duly obſerve the direction of the three general Obſervations, uſing as much ſtirring Exerciſe, as ſtrength will permit; and in four days time, ſhe will, by the Bleſſing of God, find her Diſtemper diminiſh, and in taking of an half pint Bottle, the Cheeks and Lips will return to their former Roſe-colour.</p>
+               </div>
+               <div type="disease">
+                  <head>CHILDRENS Diſtempers.</head>
+                  <p>FOr CHILDRENS DISTEMPERS, whether the Worms, Rickets, the Stone, Convulſions, Gripes, Kings-Evil, Joynt Evil, or any Diſtemper proceeding from Wind or Crudities, en<g ref="char:EOLhyphen"/>gendred by means of undigeſted Matter (the effect of their cold and weak Stomachs,) which is the grand and original cauſe of theſe their diſtempers: The way of adminiſtring this drink muſt be in this manner; to a Babe of a month-old, give (in time of its affliction) half a Child's Spoonful thereof, mixed with double the quantity of ſmall Ale, not exceeding this Doſe, nor oftner than once in 12 hours time. To a Babe of half a year old, let the Doſe be half a middling ſpoonful o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Drink, with double the quan<g ref="char:EOLhyphen"/>tity of ſmall Ale. To one of a year old, one ſpoonful, with the likequantity of ſmall Ale. To a Child of four years one ſpoon<g ref="char:EOLhyphen"/>ful of the Drink alone. To one of ſeven years old, two ſpoonfuls; and to one of 12 years old, two ſpoonfuls and an half, in any of <pb n="8" facs="tcp:179808:9"/>theſe Diſtempers, not exceeding one Doſe in 12 hours, except only in the Gripes, and then, one Doſe every five hours; where ob<g ref="char:EOLhyphen"/>ſerve, that in moſt of theſe Diſtempers, it hath pleaſed God ſo to bleſs this <hi>means,</hi> that two Doſes have been found ſucceſsful to Babes and Children: Here note, that the ſtrength of the Child, and of its Diſtemper, will be a more ſure Guide for proportioning a proper Doſe, than the Child's Age.</p>
+               </div>
+               <div type="disease">
+                  <head>The Stone in Babes and Children.</head>
+                  <p>ANd if the Diſtemper be the <hi>Stone</hi> obſerve the ſame directions in adminiſtring this Drink to Babes and Children, of all Ages, as is above preſcribed for thoſe under other Diſtempers; except only that Diſtemper of the <hi>Gripes;</hi> and this Drink gradually waſts the Stone, and turns Stones to Gravel, bringing them away as ſoft as Meal, and brings away Worms, as skins; it alſo brings away a flimy ſubſtance, ſome black, ſome green (the cauſe of theſe Diſtem<g ref="char:EOLhyphen"/>pers, which manifold experience hath fully confirmed.</p>
+               </div>
+               <div type="disease">
+                  <head>Convulſion-Fits.</head>
+                  <p>Moreover it hath alſo been experienced that unto a Child of ſeven years old (afflicted with the <hi>Gripes</hi> or <hi>Convulſion Fits</hi> in extremity) there hath been found neceſſary the ſame Doſe, as for a Man, being three ſpoonfuls, and five hours after, the like Doſe.</p>
+               </div>
+               <div type="disease">
+                  <head>Conſumptions, bad Digeſtions.</head>
+                  <p>LEt Conſumptive Perſons, of either Sex, take one ſpoonful of this Drink an hour before Dinner, and another ſuch Doſe, an hour after Dinner; for many weak Conſumptive Perſons have (through the Lords Bleſſing) experienced the ſame very ſucceſsful in ſtrengthening weak Nature, converting their food into good nouriſhment, and inſtrumental in reſtoring their ſtrength.</p>
+               </div>
+               <div type="disease">
+                  <head>Agues.</head>
+                  <p>LEt the Patient (an hour before the expected time of the Fitt) take three Spoonfuls, being at what time ſoever; and two ſpoonful, ſix hours after: (which done,) let the Patient obſerve the <hi>Directions</hi> of the ſecond general <hi>Obſervation.</hi>
+                  </p>
+               </div>
+               <div type="disease">
+                  <head>Piles.</head>
+                  <p>LEt the perſon afflicted, diligently follow the
+<hi>Direction</hi> in the ſecond general <hi>Obſervation,</hi> it having been lately found to be ſucceſsful.</p>
+                  <pb facs="tcp:179808:9"/>
+               </div>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
